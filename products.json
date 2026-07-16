@@ -1,0 +1,41 @@
+[
+ {
+   "id": "01",
+   "name": "Amazfit Helio Strap",
+   "stock": 3,
+   "stock_text": "5 in stock",
+   "category": "Smartwatch",
+   "location_count": 3,
+   "location_text": "3 stores",
+   "badge_status": "Active",
+   "Color":" Black",
+   "image_url": "https://www.yankodesign.com/images/design_news/2025/06/amazfit-helio-strap-brings-minimalist-fitness-tracking-to-modern-design-lovers/amazfit-helio-strap-01.jpg"
+ }, 
+  {
+   "id": "02",
+   "name": "Xiaomi Band 9 Prov",
+   "stock": 7,
+   "stock_text": "7 in stock",
+   "category": "Smartwatch",
+   "location_count": 4,
+   "location_text": "4 stores",
+   "badge_status": "Active",
+   "Color":"RoseGold,Obsidian,Moonlightsilver,Blue,Oreange",
+   "image_url": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-smart-band-9-pro/pc/bg1.png?f=webp"
+ },
+{
+   "id": "03",
+   "name": "Garmin Venu X1 Series ",
+   "stock": 10,
+   "stock_text": "10 in stock",
+   "category": "Smartwatch",
+   "location_count": 4,
+   "location_text": "4 stores",
+   "badge_status": "Active",
+   "Color":"Black",
+   "image_url": "https://tse2.mm.bing.net/th/id/OIP.P5Vzr16rSnt3TXaS2t_unwHaHa?r=0&w=1200&h=1200&rs=1&pid=ImgDetMain&o=7&rm=3"
+  
+ }
+
+
+]
